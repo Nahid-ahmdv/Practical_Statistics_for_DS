@@ -1,0 +1,11 @@
+# Ignore CSV data files
+*.csv
+
+# Ignore Jupyter Notebook checkpoints
+*.ipynb_checkpoints
+
+# Ignore Python environment folders
+.venv/
+__pycache__/
+*.pyc
+
